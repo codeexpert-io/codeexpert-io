@@ -2,7 +2,7 @@ Hi there 👋
 My name is Wisdom and I'm a Mechanical Engineering student in the United States with interests in Computer Science.
 
 ⚡Interests:
-Web Development
+Web Development\n
 Automation
 Mechanical Design
 
