@@ -8,5 +8,5 @@ My name is Wisdom and I'm a Mechanical Engineering student in the United States 
 <li>Mechanical Design</li>
 </ul>
 
-☁️Reach me by email or LinkedIn! wcalmday@gmail.com|https://www.linkedin.com/in/wisdom-calmday/
+☁️Reach me by email or LinkedIn! wcalmday@gmail.com | https://www.linkedin.com/in/wisdom-calmday/
 
